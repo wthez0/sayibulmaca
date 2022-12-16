@@ -1,6 +1,6 @@
 import random
 
-sayi=random.randint(1,1)
+sayi=random.randint(1,20)
 
 print("Merhaba Oyunumuza Hoşgeldiniz !")
 print("Şimdi İçimden 1 İle 20 Arasında Bir Sayı Tutacağım.")
